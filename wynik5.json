@@ -1,0 +1,9566 @@
+﻿[
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 289,
+        "start": 195,
+        "end": 196,
+        "type": "trek",
+        "properties": {
+"distance": 14,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 290,
+        "start": 196,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 55
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 289,
+        "start": 195,
+        "end": 196,
+        "type": "trek",
+        "properties": {
+"distance": 14,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 290,
+        "start": 196,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 55
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 289,
+        "start": 195,
+        "end": 196,
+        "type": "trek",
+        "properties": {
+"distance": 14,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 290,
+        "start": 196,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 55
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 289,
+        "start": 195,
+        "end": 196,
+        "type": "trek",
+        "properties": {
+"distance": 14,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 290,
+        "start": 196,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 55
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 289,
+        "start": 195,
+        "end": 196,
+        "type": "trek",
+        "properties": {
+"distance": 14,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 290,
+        "start": 196,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 55
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 289,
+        "start": 195,
+        "end": 196,
+        "type": "trek",
+        "properties": {
+"distance": 14,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 290,
+        "start": 196,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 55
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 289,
+        "start": 195,
+        "end": 196,
+        "type": "trek",
+        "properties": {
+"distance": 14,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 290,
+        "start": 196,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 55
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 289,
+        "start": 195,
+        "end": 196,
+        "type": "trek",
+        "properties": {
+"distance": 14,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 290,
+        "start": 196,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 55
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 289,
+        "start": 195,
+        "end": 196,
+        "type": "trek",
+        "properties": {
+"distance": 14,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 290,
+        "start": 196,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 55
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 289,
+        "start": 195,
+        "end": 196,
+        "type": "trek",
+        "properties": {
+"distance": 14,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 290,
+        "start": 196,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 55
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 289,
+        "start": 195,
+        "end": 196,
+        "type": "trek",
+        "properties": {
+"distance": 14,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 290,
+        "start": 196,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 55
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 289,
+        "start": 195,
+        "end": 196,
+        "type": "trek",
+        "properties": {
+"distance": 14,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 290,
+        "start": 196,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Rammam-Sabargram",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 55
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 285,
+        "start": 191,
+        "end": 195,
+        "type": "twowheeler",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 287,
+        "start": 195,
+        "end": 192,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 286,
+        "start": 195,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 284,
+        "start": 191,
+        "end": 195,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Sirikhola-Rammam",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 288,
+        "start": 195,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Rammam-Gurdum",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 48
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 277,
+        "start": 193,
+        "end": 194,
+        "type": "trek",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 283,
+        "start": 194,
+        "end": 189,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 277,
+        "start": 193,
+        "end": 194,
+        "type": "trek",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 281,
+        "start": 194,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 277,
+        "start": 193,
+        "end": 194,
+        "type": "trek",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 282,
+        "start": 194,
+        "end": 189,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 279,
+        "start": 193,
+        "end": 194,
+        "type": "twowheeler",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 283,
+        "start": 194,
+        "end": 189,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 279,
+        "start": 193,
+        "end": 194,
+        "type": "twowheeler",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 281,
+        "start": 194,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 279,
+        "start": 193,
+        "end": 194,
+        "type": "twowheeler",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 282,
+        "start": 194,
+        "end": 189,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 278,
+        "start": 193,
+        "end": 194,
+        "type": "road",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 283,
+        "start": 194,
+        "end": 189,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 278,
+        "start": 193,
+        "end": 194,
+        "type": "road",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 281,
+        "start": 194,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 278,
+        "start": 193,
+        "end": 194,
+        "type": "road",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 282,
+        "start": 194,
+        "end": 189,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 277,
+        "start": 193,
+        "end": 194,
+        "type": "trek",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 283,
+        "start": 194,
+        "end": 189,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 277,
+        "start": 193,
+        "end": 194,
+        "type": "trek",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 281,
+        "start": 194,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 277,
+        "start": 193,
+        "end": 194,
+        "type": "trek",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 282,
+        "start": 194,
+        "end": 189,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 279,
+        "start": 193,
+        "end": 194,
+        "type": "twowheeler",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 283,
+        "start": 194,
+        "end": 189,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 279,
+        "start": 193,
+        "end": 194,
+        "type": "twowheeler",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 281,
+        "start": 194,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 279,
+        "start": 193,
+        "end": 194,
+        "type": "twowheeler",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 282,
+        "start": 194,
+        "end": 189,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 278,
+        "start": 193,
+        "end": 194,
+        "type": "road",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 283,
+        "start": 194,
+        "end": 189,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 278,
+        "start": 193,
+        "end": 194,
+        "type": "road",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 281,
+        "start": 194,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 278,
+        "start": 193,
+        "end": 194,
+        "type": "road",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 282,
+        "start": 194,
+        "end": 189,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 277,
+        "start": 193,
+        "end": 194,
+        "type": "trek",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 283,
+        "start": 194,
+        "end": 189,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 277,
+        "start": 193,
+        "end": 194,
+        "type": "trek",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 281,
+        "start": 194,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 277,
+        "start": 193,
+        "end": 194,
+        "type": "trek",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 282,
+        "start": 194,
+        "end": 189,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 279,
+        "start": 193,
+        "end": 194,
+        "type": "twowheeler",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 283,
+        "start": 194,
+        "end": 189,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 279,
+        "start": 193,
+        "end": 194,
+        "type": "twowheeler",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 281,
+        "start": 194,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 279,
+        "start": 193,
+        "end": 194,
+        "type": "twowheeler",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 282,
+        "start": 194,
+        "end": 189,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 278,
+        "start": 193,
+        "end": 194,
+        "type": "road",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 283,
+        "start": 194,
+        "end": 189,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 278,
+        "start": 193,
+        "end": 194,
+        "type": "road",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 281,
+        "start": 194,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 280,
+        "start": 187,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 7,
+"name": "Rimbik-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 278,
+        "start": 193,
+        "end": 194,
+        "type": "road",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 282,
+        "start": 194,
+        "end": 189,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 44
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 267,
+        "start": 187,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 18,
+"name": "Rimbik-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 271,
+        "start": 191,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 271,
+        "start": 191,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 272,
+        "start": 191,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 272,
+        "start": 191,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 271,
+        "start": 191,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 271,
+        "start": 191,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 272,
+        "start": 191,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 265,
+        "start": 188,
+        "end": 187,
+        "type": "road",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 272,
+        "start": 191,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 267,
+        "start": 187,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 18,
+"name": "Rimbik-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 271,
+        "start": 191,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 271,
+        "start": 191,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 272,
+        "start": 191,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 272,
+        "start": 191,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 271,
+        "start": 191,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 271,
+        "start": 191,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 272,
+        "start": 191,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 264,
+        "start": 188,
+        "end": 187,
+        "type": "PublicTransport",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 272,
+        "start": 191,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 267,
+        "start": 187,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 18,
+"name": "Rimbik-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 271,
+        "start": 191,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 271,
+        "start": 191,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 272,
+        "start": 191,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 270,
+        "start": 187,
+        "end": 191,
+        "type": "twowheeler",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 272,
+        "start": 191,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 271,
+        "start": 191,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 271,
+        "start": 191,
+        "end": 192,
+        "type": "trek",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 272,
+        "start": 191,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 274,
+        "start": 192,
+        "end": 190,
+        "type": "twowheeler",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 266,
+        "start": 188,
+        "end": 187,
+        "type": "trek",
+        "properties": {
+"distance": 15,
+"name": "Darjeeling-Rimbik",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 269,
+        "start": 187,
+        "end": 191,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "Rimbik-Sirikhola",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 272,
+        "start": 191,
+        "end": 192,
+        "type": "twowheeler",
+        "properties": {
+"distance": 6,
+"name": "Sirikhola-Gurdum",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 273,
+        "start": 192,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 12,
+"name": "Gurdum-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 37
+  },
+  {
+    "re": [
+      {
+        "identity": 275,
+        "start": 188,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 277,
+        "start": 193,
+        "end": 194,
+        "type": "trek",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 283,
+        "start": 194,
+        "end": 189,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  },
+  {
+    "re": [
+      {
+        "identity": 275,
+        "start": 188,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 277,
+        "start": 193,
+        "end": 194,
+        "type": "trek",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 281,
+        "start": 194,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  },
+  {
+    "re": [
+      {
+        "identity": 275,
+        "start": 188,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 277,
+        "start": 193,
+        "end": 194,
+        "type": "trek",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 282,
+        "start": 194,
+        "end": 189,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  },
+  {
+    "re": [
+      {
+        "identity": 275,
+        "start": 188,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 279,
+        "start": 193,
+        "end": 194,
+        "type": "twowheeler",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 283,
+        "start": 194,
+        "end": 189,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  },
+  {
+    "re": [
+      {
+        "identity": 275,
+        "start": 188,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 279,
+        "start": 193,
+        "end": 194,
+        "type": "twowheeler",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 281,
+        "start": 194,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  },
+  {
+    "re": [
+      {
+        "identity": 275,
+        "start": 188,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 279,
+        "start": 193,
+        "end": 194,
+        "type": "twowheeler",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 282,
+        "start": 194,
+        "end": 189,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  },
+  {
+    "re": [
+      {
+        "identity": 275,
+        "start": 188,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 278,
+        "start": 193,
+        "end": 194,
+        "type": "road",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 283,
+        "start": 194,
+        "end": 189,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  },
+  {
+    "re": [
+      {
+        "identity": 275,
+        "start": 188,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 278,
+        "start": 193,
+        "end": 194,
+        "type": "road",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 281,
+        "start": 194,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  },
+  {
+    "re": [
+      {
+        "identity": 275,
+        "start": 188,
+        "end": 193,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 278,
+        "start": 193,
+        "end": 194,
+        "type": "road",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 282,
+        "start": 194,
+        "end": 189,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  },
+  {
+    "re": [
+      {
+        "identity": 276,
+        "start": 188,
+        "end": 193,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 277,
+        "start": 193,
+        "end": 194,
+        "type": "trek",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 283,
+        "start": 194,
+        "end": 189,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  },
+  {
+    "re": [
+      {
+        "identity": 276,
+        "start": 188,
+        "end": 193,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 277,
+        "start": 193,
+        "end": 194,
+        "type": "trek",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 281,
+        "start": 194,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  },
+  {
+    "re": [
+      {
+        "identity": 276,
+        "start": 188,
+        "end": 193,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 277,
+        "start": 193,
+        "end": 194,
+        "type": "trek",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 282,
+        "start": 194,
+        "end": 189,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  },
+  {
+    "re": [
+      {
+        "identity": 276,
+        "start": 188,
+        "end": 193,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 279,
+        "start": 193,
+        "end": 194,
+        "type": "twowheeler",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 283,
+        "start": 194,
+        "end": 189,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  },
+  {
+    "re": [
+      {
+        "identity": 276,
+        "start": 188,
+        "end": 193,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 279,
+        "start": 193,
+        "end": 194,
+        "type": "twowheeler",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 281,
+        "start": 194,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  },
+  {
+    "re": [
+      {
+        "identity": 276,
+        "start": 188,
+        "end": 193,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 279,
+        "start": 193,
+        "end": 194,
+        "type": "twowheeler",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 282,
+        "start": 194,
+        "end": 189,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  },
+  {
+    "re": [
+      {
+        "identity": 276,
+        "start": 188,
+        "end": 193,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 278,
+        "start": 193,
+        "end": 194,
+        "type": "road",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 283,
+        "start": 194,
+        "end": 189,
+        "type": "twowheeler",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  },
+  {
+    "re": [
+      {
+        "identity": 276,
+        "start": 188,
+        "end": 193,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 278,
+        "start": 193,
+        "end": 194,
+        "type": "road",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 281,
+        "start": 194,
+        "end": 189,
+        "type": "trek",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  },
+  {
+    "re": [
+      {
+        "identity": 276,
+        "start": 188,
+        "end": 193,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Darjeeling-Tumbling",
+"winter": "true",
+"summer": "false"
+        }
+      },
+      {
+        "identity": 278,
+        "start": 193,
+        "end": 194,
+        "type": "road",
+        "properties": {
+"distance": 8,
+"name": "Tumbling-Gairibus",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 282,
+        "start": 194,
+        "end": 189,
+        "type": "road",
+        "properties": {
+"distance": 10,
+"name": "Gairibus-BhikeBhanja",
+"winter": "true",
+"summer": "true"
+        }
+      },
+      {
+        "identity": 268,
+        "start": 189,
+        "end": 190,
+        "type": "trek",
+        "properties": {
+"distance": 4,
+"name": "BhikeBhanja-Sandakphu",
+"winter": "true",
+"summer": "true"
+        }
+      }
+    ],
+    "dist": 32
+  }
+]
